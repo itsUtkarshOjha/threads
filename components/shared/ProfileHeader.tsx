@@ -7,6 +7,7 @@ interface Props {
   username: string;
   imgUrl: string;
   bio: string;
+  type: "User" | "Community";
 }
 
 export default function ProfileHeader({
@@ -16,8 +17,8 @@ export default function ProfileHeader({
   username,
   imgUrl,
   bio,
+  type,
 }: Props) {
-  console.log(imgUrl);
   return (
     <div className="flex w-full flex-col justify-start">
       <div className="flex items-center justify-between">
