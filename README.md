@@ -2,7 +2,7 @@
 
 ![Threads Clone Banner](banner.jpg)
 
-Welcome to the Threads Clone Web Application! This application is designed to replicate the core functionality of the popular Threads app, allowing users to engage in seamless conversations and discussions in real-time. Built using Next.js, Tailwind CSS, and MongoDB, this project showcases the power of modern web technologies.
+Welcome to the Threads Clone Web Application. Built using Next.js, Tailwind CSS, and MongoDB, this project showcases the power of modern web technologies.
 
 ## Table of Contents
 
@@ -19,10 +19,9 @@ Curious about how the Threads Clone works? Check out the live demo [here](https:
 
 ## Features
 
-- **Real-time Conversations:** Experience dynamic conversations with other users in real-time, just like in the Threads app.
 - **User Authentication:** Sign up and log in securely to access and participate in conversations.
 - **Community Creation:** Create your own community and invite others to join in.
-- **Thread Creation:** Start your own discussion threads and invite others to join in.
+- **Thread Creation:** Start your own discussion threads and reply to others' threads.
 - **Responsive Design:** The application is designed to work seamlessly across various devices and screen sizes.
 
 ## Tech Stack
