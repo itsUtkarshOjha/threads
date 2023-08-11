@@ -1,6 +1,5 @@
 # Threads Clone Web Application
 
-![Threads Clone Banner](banner.jpg)
 
 Welcome to the Threads Clone Web Application. Built using Next.js, Tailwind CSS, and MongoDB, this project showcases the power of modern web technologies.
 
