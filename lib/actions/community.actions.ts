@@ -72,6 +72,7 @@ export async function fetchCommunityDetails(id: string) {
 
 export async function fetchCommunityPosts(id: string) {
   try {
+    console.log("!!!!!!!!!!!!!!!!!HELLOOOOOO!!!!!!!!!!!!!!");
     connectToDB();
 
     const communityPosts = await Community.findById(id).populate({

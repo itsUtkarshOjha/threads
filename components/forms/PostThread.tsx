@@ -38,8 +38,6 @@ function PostThread({ userId }: Props) {
     },
   });
 
-  console.log(organization);
-
   const onSubmit = async (values: z.infer<typeof ThreadValidation>) => {
     await createThread({
       text: values.thread,
